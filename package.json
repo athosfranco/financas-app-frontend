@@ -38,7 +38,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "@types/styled-components": "latest",
+    "@types/styled-components": "^5.1.26",
     "craco-alias": "^3.0.1",
     "typescript": "latest"
   }
